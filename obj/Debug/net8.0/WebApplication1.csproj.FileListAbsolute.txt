@@ -1,0 +1,273 @@
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Omesh Laptop\source\repos\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\net\Electronic-Products\bin\Debug\net8.0\appsettings.Development.json
+D:\net\Electronic-Products\bin\Debug\net8.0\appsettings.json
+D:\net\Electronic-Products\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+D:\net\Electronic-Products\bin\Debug\net8.0\WebApplication1.exe
+D:\net\Electronic-Products\bin\Debug\net8.0\WebApplication1.deps.json
+D:\net\Electronic-Products\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\net\Electronic-Products\bin\Debug\net8.0\WebApplication1.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\WebApplication1.pdb
+D:\net\Electronic-Products\bin\Debug\net8.0\Azure.Core.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Azure.Identity.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Humanizer.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.CodeDom.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Memory.Data.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\net\Electronic-Products\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.sourcelink.json
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets.build.json
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets.development.json
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\net\Electronic-Products\obj\Debug\net8.0\staticwebassets.pack.json
+D:\net\Electronic-Products\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\net\Electronic-Products\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\net\Electronic-Products\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\net\Electronic-Products\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.dll
+D:\net\Electronic-Products\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.pdb
+D:\net\Electronic-Products\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\net\Electronic-Products\obj\Debug\net8.0\ref\WebApplication1.dll

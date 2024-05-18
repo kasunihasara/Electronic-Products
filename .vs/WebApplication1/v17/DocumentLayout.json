@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net\\Electronic-Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|d:\\net\\electronic-products\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D6A17-D9EB-4B08-8CD4-39BF072B493E}|WebApplication1.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:07:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T09:02:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDto.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Models\\ProductDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:23:31.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:44:06.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Index.cshtml",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T02:38:08.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:51:40.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:41:04.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Create.cshtml",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Create.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T15:40:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:46:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:56:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\net\\Electronic-Products\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:55:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\net\\Electronic-Products\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\net\\Electronic-Products\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:28:47.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
